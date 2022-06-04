@@ -1,0 +1,78 @@
+---
+# Display name
+title: Xiangping Lin
+
+# Is this the primary user of the site?
+superuser: true
+
+# Role/position/tagline
+role: Postdoctoral Fellow
+
+# Organizations/Affiliations to show in About widget
+organizations:
+  - name: Stanford University
+    url: https://www.stanford.edu/
+
+# Short bio (displayed in user profile at end of posts)
+bio: My research interests include Analytical chemistry (LC/GC-MS, NMR), Metabolomics, Exposomics, and Multivariate statistics.
+
+# Interests to show in About widget
+interests:
+  - Analytical chemistry (LC/GC-MS, NMR)
+  - Multivariate statistics
+  - Aging, Cancer, Liver disease, Metabolism
+
+# Education to show in About widget
+education:
+  courses:
+    - course: PhD in Chemistry
+      institution: Sorbonne Paris North University
+      year: 2020
+    - course: MSc in Nutritional sciences
+      institution: Université Clermont Auvergne
+      year: 2015
+    - course: BSc in Cell Biology and Physiology
+      institution: Université Blaise Pascal (Clermont-II)
+      year: 2013
+
+# Social/Academic Networking
+# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:xiangping.lin@stanford.edu
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/GeorgeCushen
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0001-6045-4459
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=SScrTkEAAAAJ&hl=en
+#  - icon: github
+#    icon_pack: fab
+#    link: https://github.com/gcushen
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/xiangping-lin/
+
+# Link to a PDF of your resume/CV.
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
+# and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: uploads/resume.pdf
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: xiangping.lin@stanford.edu
+
+# Highlight the author in author lists? (true/false)
+highlight_name: true
+---
+
+Xiangping Lin, Ph.D., is a Postdoctoral Fellow at Stanford University School of Medicine. He completed his Ph.D. in Chemistry at Sorbonne Paris North University, Paris. Dr. Lin’s research focuses on analytical chemistry, especially LC-MS (Orbitrap, Q-TOF, QqQ) and NMR-based omics studies, including, but not limited to, metabolomics, lipidomics, exposomics, and application in biomedical and environmental research, such as cancers, chemicals exposure biomarkers, aging, and metabolism. He also has extensive experience in multivariate statistics (PCA, PLS-DA …), variable selection (logistic regression, LASSO regression …), and R programming.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
