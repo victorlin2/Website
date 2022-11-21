@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 title: Featured Publications
-subtitle: 'Plasma Metabolomic and Lipidomic Profiling of Metabolic Dysfunction-Associated Fatty Liver Disease in Humans Using an Untargeted Multiplatform Approach'
+subtitle: ''
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -19,7 +19,7 @@ content:
   count: 0
   # Filter on criteria
   filters:
-    author: 'Lin, X.; Liu, X.; Triba, M.N.; Bouchemal, N.; Liu, Z.; Walker, D.I.; Palama, T.; Le Moyec, L.; Ziol, M.; Helmy, N.; Vons, C.; Xu, G.; Prip-Buus, C.; Savarin, P.'
+    author: 'admin'
     category: ''
     publication_type: 'Article'
     tag: ''
@@ -32,5 +32,5 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 1
+  view: 4
 ---
