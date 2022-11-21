@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 title: Featured Publications
-subtitle: 'Metabolomics for Discovery of Early Metabolic Markers of Prostate Cancer Based on Ultra-High-Performance Liquid Chromatography-High Resolution Mass Spectrometry'
+subtitle: 'Plasma Metabolomic and Lipidomic Profiling of Metabolic Dysfunction-Associated Fatty Liver Disease in Humans Using an Untargeted Multiplatform Approach'
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -19,7 +19,7 @@ content:
   count: 0
   # Filter on criteria
   filters:
-    author: 'Lin, X.; Lécuyer, L.; Liu, X.; Triba, M.N.; Deschasaux-Tanguy, M.; Demidem, A.; Liu, Z.; Palama, T.; Rossary, A.; Vasson, M.-P.; Hercberg, S.; Galan, P.; Savarin, P.; Xu, G.; Touvier, M.'
+    author: 'Lin, X.; Liu, X.; Triba, M.N.; Bouchemal, N.; Liu, Z.; Walker, D.I.; Palama, T.; Le Moyec, L.; Ziol, M.; Helmy, N.; Vons, C.; Xu, G.; Prip-Buus, C.; Savarin, P.'
     category: ''
     publication_type: 'Article'
     tag: ''
