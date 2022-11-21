@@ -6,7 +6,7 @@ title: Xiangping Lin
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Fellow
+role: Postdoctoral Scholar
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,9 +18,9 @@ bio: My research interests include Analytical chemistry (LC/GC-MS, NMR), Metabol
 
 # Interests to show in About widget
 interests:
-  - Analytical chemistry (LC/GC-MS, NMR)
+  - Analytical chemistry (Mass Spectrometry, NMR)
+  - Metabolism, Cancer, Liver disease, Aging
   - Multivariate statistics
-  - Aging, Cancer, Liver disease, Metabolism
 
 # Education to show in About widget
 education:
@@ -73,6 +73,6 @@ email: xiangping.lin@stanford.edu
 highlight_name: true
 ---
 
-Xiangping Lin, Ph.D., is a Postdoctoral Fellow at Stanford University School of Medicine. He completed his Ph.D. in Chemistry at Sorbonne Paris North University, Paris. Dr. Lin’s research focuses on analytical chemistry, especially LC-MS (Orbitrap, Q-TOF, QqQ) and NMR-based omics studies, including, but not limited to, metabolomics, lipidomics, exposomics, and application in biomedical and environmental research, such as cancer, liver disease, chemicals exposure biomarkers, aging, and metabolism. In addition, he has extensive experience in multivariate statistics (PCA, PLS-DA …), variable selection (logistic regression, LASSO regression …), and R programming.
+Xiangping Lin, Ph.D., is a Postdoctoral Scholar at Stanford University School of Medicine. He completed his Ph.D. in Chemistry at Sorbonne Paris North University, Paris. Dr. Lin’s research focuses on analytical chemistry, especially LC-MS (Orbitrap, Q-TOF, QqQ) and NMR-based omics studies, including, but not limited to, metabolomics, lipidomics, exposomics, and application in biomedical and environmental research, such as cancer, liver disease, chemicals exposure biomarkers, metabolism and aging. In addition, he has extensive experience in multivariate statistics (PCA, PLS-DA …), variable selection (logistic regression, LASSO regression …), and R programming.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
