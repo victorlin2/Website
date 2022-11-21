@@ -19,7 +19,7 @@ content:
   count: 0
   # Filter on criteria
   filters:
-    author: 'admin'
+    author: ''
     category: ''
     publication_type: 'Article'
     tag: ''
