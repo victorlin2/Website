@@ -44,7 +44,7 @@ experience:
     location: 'New York'
     date_start: '2021-11-23'
     date_end: '2022-01-31'
-    description: 'Ultra-high-performance liquid chromatography-high-resolution accurate mass spectrometry based exposomics research.'
+    description: 'High-resolution mass spectrometry based exposomics, metabolomics.'
     
   - title: 'PhD in Chemistry'
     company: 'Sorbonne Paris North University'
