@@ -21,7 +21,8 @@ interests:
   - Analytical chemistry
   - Mass Spectrometry, NMR
   - Multivariate statistics
-  - Metabolism, Cancer, Liver disease, Aging
+  - Metabolism, Liver disease
+  - Cancer, Aging
 
 # Education to show in About widget
 education:
