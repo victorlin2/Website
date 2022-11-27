@@ -17,8 +17,8 @@
 # Supported font sizes are xs, s, m, l, xl.
 
 appearance:
-  theme_day: default
-  theme_night: default
+  theme_day: "default"
+  theme_night: "default"
 # font: minimal
   font: Native
   font_size: M
