@@ -3,12 +3,24 @@
 # Documentation: https://wowchemy.com/docs/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-# Appearance
+# Appearance, 
+# Fonts 
+# You can choose from one of the following built-in font sets or create your own font set with Google Fonts or your own font files: 
+# Minimal (modern) 
+# Classic (original Academic v1 style) 
+# Rose (traditional serif) 
+# Mr Robot (futuristic) 
+# Cyberpunk (hacker style) 
+# Native: use device fonts for maximum performance 
+# To choose a font set, set the font option in config/_default/params.yaml. 
+# Font Sizes The font size can be changed all the way from extra-small to extra large using the font_size option in config/_default/params.yaml. 
+# Supported font sizes are xs, s, m, l, xl.
 
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: minimal
+# font: minimal
+  font: Native
   font_size: M
 
 # SEO
