@@ -54,8 +54,12 @@ social:
     icon_pack: ai
     link: https://orcid.org/0000-0001-6045-4459
     
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+#  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+#    icon_pack: fas
+#    link: https://scholar.google.com/citations?user=SScrTkEAAAAJ&hl=en
+    
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=SScrTkEAAAAJ&hl=en
     
 #  - icon: github
