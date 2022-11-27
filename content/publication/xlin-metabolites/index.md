@@ -31,8 +31,8 @@ summary: ""
 
 tags: []
 categories: []
-featured: true
-# featured: false
+featured: false
+# featured: true
 # math: true
 
 # Custom links (optional).
