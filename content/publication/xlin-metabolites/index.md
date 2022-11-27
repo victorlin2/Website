@@ -33,7 +33,7 @@ tags: []
 categories: []
 featured: true
 # featured: false
-math: true
+# math: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
