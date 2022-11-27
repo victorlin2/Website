@@ -16,26 +16,26 @@
 # Font Sizes The font size can be changed all the way from extra-small to extra large using the font_size option in config/_default/params.yaml. 
 # Supported font sizes are xs, s, m, l, xl.
 
-# appearance:
-#  theme_day: "ocean"
-#  theme_night: "ocean"
+ appearance:
+  theme_day: "minimal"
+  theme_night: "minimal"
 # font: minimal
-#  font: Native
-#  font_size: M
+  font: Native
+  font_size: M
 
 # SITE SETUP
 # Documentation: https://sourcethemes.com/academic/
 
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-color_theme = "default"
+# color_theme = "default"
 
 # Enable users to switch between day and night mode?
-day_night = true
+# day_night = true
 
 # Font style.
 #   Choose from `default`, `classic`, or `playfair`.
-font = "default"
+# font = "default"
 
 # SEO
 
