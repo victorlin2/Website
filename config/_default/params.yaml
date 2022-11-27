@@ -20,7 +20,7 @@
   theme_day: "minimal"
   theme_night: "minimal"
 # font: minimal
-  font: Classic
+  font: Rose
   font_size: M
 
 # SITE SETUP
