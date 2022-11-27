@@ -31,7 +31,9 @@ summary: ""
 
 tags: []
 categories: []
-featured: false
+featured: true
+# featured: false
+math: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
