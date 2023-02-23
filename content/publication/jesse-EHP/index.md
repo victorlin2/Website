@@ -6,7 +6,8 @@ authors:
 - Jesse Goodrich
 - Douglas Walker
 - Jingxuan He
-- admin et al
+- admin 
+- Brittney O. Baumert et al
 date: 2023-02-22T07:07:49-06:00
 doi: "https://doi.org/10.1289/EHP11372"
 
