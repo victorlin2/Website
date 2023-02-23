@@ -21,7 +21,7 @@ publishDate: 2023-02-22T07:07:49-06:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Environmental Health Perspectives*, 2(131), 11372"
+publication: "*Environmental Health Perspectives* 2023, 131(2), 11372"
 publication_short: ""
 
 abstract: "Background:
