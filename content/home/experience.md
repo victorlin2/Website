@@ -29,7 +29,7 @@ experience:
     location: 'California'
     date_start: '2022-02-01'
     date_end: ''
-    description: 'Mass Spectrometry based metabolomics, lipidomics, exposomics.'
+    description: 'High-resolution **Mass Spectrometry** based **Metabolomics**, lipidomics, **exposomics**.'
 #    description: |2-
 #        Responsibilities include:
 #        
@@ -44,7 +44,7 @@ experience:
     location: 'New York'
     date_start: '2021-11-23'
     date_end: '2022-01-31'
-    description: 'High-resolution mass spectrometry based exposomics, metabolomics.'
+    description: 'High-resolution **Mass Spectrometry** based **metabolomics**, **exposomics**.'
     
   - title: 'PhD in Chemistry'
     company: 'Sorbonne Paris North University'
