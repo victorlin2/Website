@@ -20,9 +20,9 @@ bio: My research interests include Analytical chemistry (LC/GC-MS, NMR), Metabol
 interests:
   - Analytical chemistry
   - Mass Spectrometry, NMR
-  - Multivariate statistics
-  - Metabolism, Liver disease
-  - Cancer, Aging
+  - Exposomics, Metabolomics
+  - Chemometrics
+  - Cancer, Metabolism, Liver disease
 
 # Education to show in About widget
 education:
