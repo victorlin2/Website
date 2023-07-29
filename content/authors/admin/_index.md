@@ -85,7 +85,7 @@ highlight_name: true
 ---
 
 {::comment}
-This text is completely ignored by kramdown - a comment in the text: justify-align in Markdown.
+justify-align in Markdown.
 {:/comment}
 <style>body {text-align: justify}</style>
 
