@@ -84,6 +84,7 @@ email: xiangping.lin@stanford.edu
 highlight_name: true
 ---
 
+[]: # "justify-align in Markdown"
 <style>body {text-align: justify}</style>
 
 Xiangping Lin, Ph.D., is a Postdoctoral Scholar at Stanford University. He received his Ph.D. in **chemistry** from Sorbonne Paris North University, Paris. Dr. Lin’s research focuses on **analytical chemistry**, especially **mass spectrometry** (Orbitrap, Q-TOF, QqQ) and NMR-based omics studies. These include, but are not limited to, **metabolomics**, **exposomics**, lipidomics, and the application in **biomedical** and **environmental research**, such as **metabolism**, **liver disease**, **cancer**, **environmental chemicals exposure biomarkers**. In addition, he has extensive experience in **multivariate statistics** (PCA, PLS-DA, et cetera.), **variable selection** (logistic regression, LASSO regression, et cetera.), and **R programming**.
