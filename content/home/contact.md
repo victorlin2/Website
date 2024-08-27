@@ -25,10 +25,10 @@ content:
 #      captcha: false
 
   # Contact details (edit or remove options as required)
-  email: xiangping.lin@stanford.edu
+  email: xiangping.lin[at]stanford[dot]edu
 #  phone: 888 888 88 88
   address:
-    street: 450 Serra Mall
+    street: 450 Jane Stanford Way
     city: Stanford
     region: CA
     postcode: '94305'
