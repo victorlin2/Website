@@ -6,7 +6,7 @@ title: Xiangping Lin
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Scholar
+role: Postdoctoral scholar
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,8 @@ organizations:
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Analytical chemistry (LC/GC-MS, NMR), Metabolomics, Exposomics, and Multivariate statistics.
+#bio: My research interests include Analytical chemistry (LC/GC-MS, NMR), Metabolomics, Exposomics, and Multivariate statistics.
+bio: My research interests focus on mass spectrometry, metabolomics, and their applications in biomedical research and environmental health.
 
 # Interests to show in About widget
 interests:
@@ -86,6 +87,8 @@ highlight_name: true
 
 <style>body {text-align: justify}</style>
 
-Xiangping Lin, Ph.D., is a Postdoctoral Scholar at Stanford University. He received his Ph.D. in **Chemistry** from Sorbonne Paris North University, Paris, France. Dr. Lin’s research focuses on **analytical chemistry**, especially **mass spectrometry** (Orbitrap, Q-TOF, QqQ) and NMR-based omics studies. These include, but are not limited to, **metabolomics**, **exposomics**, lipidomics, and the application in **biomedical** and **environmental research**, such as **metabolism**, **liver disease**, **cancer**, **environmental chemicals exposure biomarkers**. In addition, he has extensive experience in **multivariate statistics** (PCA, PLS-DA, et cetera.), **variable selection** (logistic regression, LASSO regression, et cetera.), and **R programming**.
+Xiangping Lin, Ph.D., is a postdoctoral scholar at Stanford University. He received his Ph.D. in chemistry from Sorbonne Paris North University, France. Dr. Lin’s research is centered on analytical chemistry, with a particular focus on mass spectrometry and NMR-based omics studies. His work spans a range of fields, including metabolomics, exposomics, lipidomics, and their applications in biomedical and environmental research. In addition, he has extensive experience in multivariate statistics (PCA, PLS-DA, et cetera.), variable selection (logistic regression, LASSO regression, et cetera.), and R programming.
+
+#Xiangping Lin, Ph.D., is a postdoctoral scholar at Stanford University. He received his Ph.D. in **chemistry** from Sorbonne Paris North University, France. Dr. Lin’s research #focuses on **analytical chemistry**, especially **mass spectrometry** and NMR-based omics studies. These include, but are not limited to, **metabolomics**, **exposomics**, #lipidomics, and the application in **biomedical** and **environmental research**, such as **metabolism**, **liver disease**, **cancer**, **environmental chemicals exposure #biomarkers**. In addition, he has extensive experience in **multivariate statistics** (PCA, PLS-DA, et cetera.), **variable selection** (logistic regression, LASSO regression, et #cetera.), and **R programming**.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
