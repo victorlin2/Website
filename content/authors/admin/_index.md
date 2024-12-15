@@ -85,6 +85,6 @@ highlight_name: true
 
 <style>body {text-align: justify}</style>
 
-I am a postdoctoral scholar at Stanford University. My research interests center on mass spectrometry, metabolomics, and their applications in biomedical research and environmental health. I am particularly interested in leveraging these technologies to explore the molecular mechanisms underlying diseases and to assess the impact of environmental exposures on human health.
+I am a postdoctoral scholar at Stanford University. My research interests center on mass spectrometry, metabolomics, and their applications in biomedical research and environmental health. I am particularly interested in leveraging these technologies to investigate the molecular mechanisms underlying diseases and to assess the impact of environmental exposures on human health.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
