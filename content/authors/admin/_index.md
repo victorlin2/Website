@@ -15,7 +15,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include Analytical chemistry (LC/GC-MS, NMR), Metabolomics, Exposomics, and Multivariate statistics.
-bio: My research interests focus on mass spectrometry, metabolomics, and their applications in biomedical research and environmental health.
+bio: My research interests center on mass spectrometry, metabolomics, and their applications in biomedical research and environmental health.
 
 # Interests to show in About widget
 interests:
@@ -85,6 +85,6 @@ highlight_name: true
 
 <style>body {text-align: justify}</style>
 
-Xiangping Lin, Ph.D., is a postdoctoral scholar at Stanford University. He received his Ph.D. in chemistry from Sorbonne Paris North University, France. Dr. Lin’s research is centered on analytical chemistry, with a particular focus on mass spectrometry and NMR-based omics studies. His work spans a range of fields, including metabolomics, exposomics, lipidomics, and their applications in biomedical research and environmental health. In addition, he has extensive experience in multivariate statistics (PCA, PLS-DA, et cetera.), variable selection (logistic regression, LASSO regression, et cetera.), and R programming.
+I am a postdoctoral scholar at Stanford University. My research interests center on mass spectrometry, metabolomics, and their applications in biomedical research and environmental health. I am particularly interested in using these technologies to investigate the molecular mechanisms underlying disease and the effects of environmental exposures on human health.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
