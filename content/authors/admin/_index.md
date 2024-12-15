@@ -19,11 +19,9 @@ bio: My research interests focus on mass spectrometry, metabolomics, and their a
 
 # Interests to show in About widget
 interests:
-  - Analytical chemistry
-  - Mass Spectrometry, NMR
-  - Exposomics, Metabolomics
-  - Chemometrics
-  - Cancer, Metabolism, Liver disease
+  - mass spectrometry
+  - metabolomics
+  - environmental health
 
 # Education to show in About widget
 education:
